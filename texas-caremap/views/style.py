@@ -267,6 +267,9 @@ BOLD_CSS = """
   [data-testid="stAppViewContainer"], [data-testid="stMain"], section.main { background-size: cover !important; background-position: 20% center !important; }
 }
 
+/* Charts sit on white cards, so the flag watermark never shows behind data */
+[data-testid="stPlotlyChart"] { background: #ffffff; border-radius: 18px; padding: 0.5rem; box-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 8px 24px rgba(0,0,0,0.04); }
+
 @media (max-width: 640px) {
   .stApp .tc-hero { padding: 1.5rem 1.3rem 1.4rem; border-radius: 18px; }
   .stApp .tc-hero .tc-title, .stApp .tc-hero .tc-sub { max-width: 100%; }

@@ -7,6 +7,10 @@ from caremap import gaps
 
 # Sequential blue ramp (light -> dark) for maps of magnitude.
 BLUE_RAMP = ["#dbe4f4", "#b3c6e8", "#86a4d8", "#5a80c4", "#335ea9", "#163f86", "#002868"]
+# Politically neutral ramp for data maps: light lavender -> deep purple.
+# (Red and blue county maps look like election maps, so data maps avoid them.)
+GAP_RAMP = ["#bba6dc", "#a088cf", "#8669bf", "#6c4daa", "#53368e", "#3b236c"]
+GAP_BAR = "#6c4daa"
 BLUE = "#002868"   # Texas flag blue
 RED = "#BF0A30"    # Texas flag red
 

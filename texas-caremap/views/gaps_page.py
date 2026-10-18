@@ -4,7 +4,7 @@ import plotly.express as px
 import streamlit as st
 
 from caremap import county_map, gaps
-from views.common import BLUE, BLUE_RAMP, get_county_table, get_data
+from views.common import GAP_BAR, GAP_RAMP, get_county_table, get_data
 from views.style import page_header, section
 
 METRICS = {
@@ -39,13 +39,13 @@ def render():
         choice = st.radio("Color the map by", list(METRICS), horizontal=True)
     col, label, fmt = METRICS[choice or "Access Gap Score"]
     fig = county_map.figure(
-        table, d.counties_geojson, col, BLUE_RAMP, value_format=fmt,
+        table, d.counties_geojson, col, GAP_RAMP, value_format=fmt,
         hover_cols={"gap_score": "Gap score", "uninsured_pct": "% uninsured",
                     "median_miles": "Miles to nearest site", "sites": "Sites",
                     "sites_per_10k": "Sites per 10k uninsured"},
     )
     st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
-    st.caption(f"{label}. Each color holds about the same number of counties; darker blue means a higher value. "
+    st.caption(f"{label}. Each color holds about the same number of counties; darker purple means a higher value. "
                "Hover over (or tap) a county for details.")
 
     section("Counties with the biggest access gaps")
@@ -53,10 +53,10 @@ def render():
     bar = px.bar(top, x="gap_score", y="county", orientation="h", text="gap_score",
                  labels={"gap_score": "Access Gap Score", "county": ""},
                  hover_data={"uninsured_pct": ":.1f", "median_miles": ":.1f", "sites": True})
-    bar.update_traces(marker_color=BLUE, texttemplate="%{text:.0f}", textposition="outside",
+    bar.update_traces(marker_color=GAP_BAR, texttemplate="%{text:.0f}", textposition="outside",
                       cliponaxis=False)
     bar.update_layout(height=460, margin=dict(l=0, r=30, t=10, b=0), xaxis=dict(range=[0, 105], showgrid=False),
-                      paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)", bargap=0.35)
+                      paper_bgcolor="#ffffff", plot_bgcolor="#ffffff", bargap=0.35)
     st.plotly_chart(bar, use_container_width=True, config={"displayModeBar": False})
 
     section("All counties")
