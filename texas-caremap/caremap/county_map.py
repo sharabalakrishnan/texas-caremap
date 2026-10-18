@@ -105,7 +105,7 @@ def figure(table: pd.DataFrame, geojson: dict, column: str, ramp: list[str],
     fig.update_yaxes(visible=False)
     fig.update_layout(
         height=height, margin=dict(l=0, r=0, t=0, b=0),
-        paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
+        paper_bgcolor="#ffffff", plot_bgcolor="#ffffff",
         legend=dict(orientation="v", x=0.0, y=0.02, xanchor="left", yanchor="bottom",
                     bgcolor="rgba(255,255,255,0.85)", font=dict(size=12)),
         hoverlabel=dict(bgcolor="white", font=dict(color="#1d2430")),
