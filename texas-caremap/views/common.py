@@ -6,8 +6,9 @@ from caremap import data as data_module
 from caremap import gaps
 
 # Sequential blue ramp (light -> dark) for maps of magnitude.
-BLUE_RAMP = ["#cde2fb", "#9ec5f4", "#6da7ec", "#3987e5", "#256abf", "#184f95", "#0d366b"]
-BLUE = "#2a78d6"
+BLUE_RAMP = ["#dbe4f4", "#b3c6e8", "#86a4d8", "#5a80c4", "#335ea9", "#163f86", "#002868"]
+BLUE = "#002868"   # Texas flag blue
+RED = "#BF0A30"    # Texas flag red
 
 
 @st.cache_resource(show_spinner="Loading Texas data...")

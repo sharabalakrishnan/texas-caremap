@@ -106,11 +106,11 @@ def show_map(place, results: pd.DataFrame):
     fig = go.Figure()
     fig.add_trace(Trace(
         lat=[place["lat"]], lon=[place["lon"]], mode="markers", name=f"Your ZIP code ({place['zip']})",
-        marker=dict(size=14, color="#1d2430"), hovertext=[f"Center of ZIP {place['zip']}"], hoverinfo="text",
+        marker=dict(size=15, color="#BF0A30"), hovertext=[f"Center of ZIP {place['zip']}"], hoverinfo="text",
     ))
     fig.add_trace(Trace(
         lat=results["lat"], lon=results["lon"], mode="markers", name="Health center sites",
-        marker=dict(size=13, color="#2a78d6", opacity=0.9), hovertext=hover, hoverinfo="text",
+        marker=dict(size=13, color="#1f4fa0", opacity=0.9), hovertext=hover, hoverinfo="text",
     ))
     view = dict(style="carto-positron", zoom=map_zoom(place, results),
                 center=dict(lat=float(place["lat"]), lon=float(place["lon"])))
@@ -122,7 +122,7 @@ def show_map(place, results: pd.DataFrame):
         **({"map": view} if new_api else {"mapbox": view}),
     )
     st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False, "scrollZoom": False})
-    st.caption("Dark dot: the center of your ZIP code. Blue dots: health center sites. "
+    st.caption("Red dot: the center of your ZIP code. Blue dots: health center sites. "
                "Map tiles © CARTO, © OpenStreetMap contributors.")
 
 
