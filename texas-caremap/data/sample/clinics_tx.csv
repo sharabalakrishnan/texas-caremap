@@ -1,0 +1,161 @@
+site_id,name,organization,address,city,zip,county,county_fips,site_type,hours_per_week,schedule,season,rural,cong_district,lat,lon
+SAMPLE0001,Sample Clinic 001 (not real),Sample Health Organization 8,509 Example St,San Juan,78589,Hidalgo,48215,Service Delivery Site,32,Full-Time,Year-Round,Y,9,26.21859,-98.1431
+SAMPLE0002,Sample Clinic 002 (not real),Sample Health Organization 6,9774 Example St,Beeville,78102,Bee,48025,Mobile Van,20,Full-Time,Year-Round,Y,6,28.40532,-97.76128
+SAMPLE0003,Sample Clinic 003 (not real),Sample Health Organization 36,3357 Example St,Rockwall,75087,Rockwall,48397,Mobile Van,32,Full-Time,Year-Round,N,38,32.93589,-96.41964
+SAMPLE0004,Sample Clinic 004 (not real),Sample Health Organization 11,7024 Example St,Lockney,79241,Floyd,48153,Service Delivery Site,40,Full-Time,Year-Round,Y,14,34.17323,-101.4357
+SAMPLE0005,Sample Clinic 005 (not real),Sample Health Organization 25,1684 Example St,Dodd City,75438,Fannin,48147,Service Delivery Site,40,Full-Time,Year-Round,N,17,33.58313,-96.04812
+SAMPLE0006,Sample Clinic 006 (not real),Sample Health Organization 8,6301 Example St,Moore,78057,Frio,48163,Service Delivery Site,50,Full-Time,Year-Round,N,24,29.06414,-99.00813
+SAMPLE0007,Sample Clinic 007 (not real),Sample Health Organization 15,4841 Example St,Rice,75155,Navarro,48349,Service Delivery Site,32,Full-Time,Year-Round,Y,25,32.21248,-96.45246
+SAMPLE0008,Sample Clinic 008 (not real),Sample Health Organization 11,6165 Example St,Sterling City,76951,Sterling,48431,Service Delivery Site,32,Full-Time,Year-Round,N,18,31.84721,-100.99069
+SAMPLE0009,Sample Clinic 009 (not real),Sample Health Organization 39,2903 Example St,Dallas,75241,Dallas,48113,Service Delivery Site,32,Full-Time,Year-Round,N,25,32.6584,-96.75188
+SAMPLE0010,Sample Clinic 010 (not real),Sample Health Organization 36,3698 Example St,Austin,78748,Travis,48453,Service Delivery Site,20,Full-Time,Year-Round,Y,3,30.1926,-97.82843
+SAMPLE0011,Sample Clinic 011 (not real),Sample Health Organization 14,9392 Example St,Dallas,75229,Dallas,48113,Service Delivery Site,32,Full-Time,Year-Round,N,32,32.88954,-96.83393
+SAMPLE0012,Sample Clinic 012 (not real),Sample Health Organization 10,4439 Example St,Pasadena,77502,Harris,48201,Service Delivery Site,32,Full-Time,Year-Round,N,36,29.68124,-95.18338
+SAMPLE0013,Sample Clinic 013 (not real),Sample Health Organization 38,6643 Example St,Pointblank,77364,San Jacinto,48407,Service Delivery Site,32,Full-Time,Year-Round,Y,33,30.75891,-95.21415
+SAMPLE0014,Sample Clinic 014 (not real),Sample Health Organization 10,2721 Example St,Trenton,75490,Fannin,48147,Mobile Van,50,Full-Time,Year-Round,Y,25,33.4164,-96.31003
+SAMPLE0015,Sample Clinic 015 (not real),Sample Health Organization 17,9164 Example St,Helotes,78023,Bexar,48029,Service Delivery Site,60,Full-Time,Year-Round,N,8,29.643,-98.75198
+SAMPLE0016,Sample Clinic 016 (not real),Sample Health Organization 22,1927 Example St,Bluff Dale,76433,Erath,48143,Service Delivery Site,45,Full-Time,Year-Round,Y,30,32.25859,-98.04057
+SAMPLE0017,Sample Clinic 017 (not real),Sample Health Organization 17,8301 Example St,Adrian,79001,Oldham,48359,Service Delivery Site,50,Full-Time,Year-Round,Y,20,35.2953,-102.66474
+SAMPLE0018,Sample Clinic 018 (not real),Sample Health Organization 10,6226 Example St,Euless,76040,Tarrant,48439,Service Delivery Site,50,Full-Time,Year-Round,N,1,32.83234,-97.09788
+SAMPLE0019,Sample Clinic 019 (not real),Sample Health Organization 24,5138 Example St,Wolfe City,75496,Hunt,48231,Service Delivery Site,20,Full-Time,Year-Round,Y,37,33.38732,-96.09396
+SAMPLE0020,Sample Clinic 020 (not real),Sample Health Organization 5,8827 Example St,Groves,77619,Jefferson,48245,Service Delivery Site,32,Full-Time,Year-Round,N,31,29.97161,-93.93529
+SAMPLE0021,Sample Clinic 021 (not real),Sample Health Organization 39,7032 Example St,Dilley,78017,Frio,48163,Service Delivery Site,50,Full-Time,Year-Round,N,13,28.69098,-99.18076
+SAMPLE0022,Sample Clinic 022 (not real),Sample Health Organization 24,7277 Example St,Austin,78701,Travis,48453,School-Based,20,Full-Time,Year-Round,Y,15,30.24514,-97.77134
+SAMPLE0023,Sample Clinic 023 (not real),Sample Health Organization 15,9741 Example St,New Braunfels,78135,Comal,48091,Service Delivery Site,20,Full-Time,Year-Round,Y,4,29.68674,-98.10017
+SAMPLE0024,Sample Clinic 024 (not real),Sample Health Organization 5,8523 Example St,Waco,76706,McLennan,48309,Service Delivery Site,40,Full-Time,Year-Round,N,32,31.49995,-97.14186
+SAMPLE0025,Sample Clinic 025 (not real),Sample Health Organization 37,7844 Example St,San Antonio,78222,Bexar,48029,Service Delivery Site,45,Full-Time,Year-Round,N,13,29.35876,-98.38646
+SAMPLE0026,Sample Clinic 026 (not real),Sample Health Organization 28,6835 Example St,Valera,76884,Coleman,48083,School-Based,60,Full-Time,Year-Round,Y,7,31.72654,-99.53361
+SAMPLE0027,Sample Clinic 027 (not real),Sample Health Organization 7,4173 Example St,Hawley,79525,Jones,48253,Service Delivery Site,32,Full-Time,Year-Round,N,29,32.62071,-99.94289
+SAMPLE0028,Sample Clinic 028 (not real),Sample Health Organization 16,1335 Example St,Anahuac,77514,Chambers,48071,School-Based,50,Full-Time,Year-Round,Y,4,29.67113,-94.59056
+SAMPLE0029,Sample Clinic 029 (not real),Sample Health Organization 6,3972 Example St,Grand Prairie,75052,Dallas,48113,Service Delivery Site,45,Full-Time,Year-Round,N,31,32.64332,-97.03704
+SAMPLE0030,Sample Clinic 030 (not real),Sample Health Organization 11,6309 Example St,Dallas,75211,Dallas,48113,Service Delivery Site,45,Full-Time,Year-Round,N,30,32.71901,-96.8939
+SAMPLE0031,Sample Clinic 031 (not real),Sample Health Organization 36,8073 Example St,Hereford,79045,Deaf Smith,48117,Service Delivery Site,32,Full-Time,Year-Round,N,14,34.86512,-102.40025
+SAMPLE0032,Sample Clinic 032 (not real),Sample Health Organization 4,5238 Example St,Three Rivers,78071,Live Oak,48297,Service Delivery Site,20,Full-Time,Year-Round,N,31,28.47577,-98.15704
+SAMPLE0033,Sample Clinic 033 (not real),Sample Health Organization 4,8420 Example St,Centerville,75833,Leon,48289,Service Delivery Site,32,Full-Time,Year-Round,Y,5,31.28251,-95.93719
+SAMPLE0034,Sample Clinic 034 (not real),Sample Health Organization 37,4133 Example St,Naples,75568,Morris,48343,Service Delivery Site,50,Full-Time,Year-Round,Y,27,33.20064,-94.68519
+SAMPLE0035,Sample Clinic 035 (not real),Sample Health Organization 17,3446 Example St,Kosse,76653,Limestone,48293,Service Delivery Site,32,Full-Time,Year-Round,N,26,31.29255,-96.61077
+SAMPLE0036,Sample Clinic 036 (not real),Sample Health Organization 21,1288 Example St,Katy,77493,Harris,48201,Service Delivery Site,45,Full-Time,Year-Round,N,37,29.89757,-95.8554
+SAMPLE0037,Sample Clinic 037 (not real),Sample Health Organization 33,4445 Example St,Weatherford,76087,Parker,48367,Service Delivery Site,40,Full-Time,Year-Round,Y,16,32.74167,-97.70994
+SAMPLE0038,Sample Clinic 038 (not real),Sample Health Organization 35,5056 Example St,Pecos,79772,Reeves,48389,Service Delivery Site,60,Full-Time,Year-Round,N,20,31.47261,-103.60288
+SAMPLE0039,Sample Clinic 039 (not real),Sample Health Organization 17,1991 Example St,Lone Star,75668,Morris,48343,Service Delivery Site,60,Full-Time,Year-Round,N,10,32.91154,-94.69861
+SAMPLE0040,Sample Clinic 040 (not real),Sample Health Organization 22,3435 Example St,Smithville,78957,Bastrop,48021,Service Delivery Site,50,Full-Time,Year-Round,N,17,30.04212,-97.12863
+SAMPLE0041,Sample Clinic 041 (not real),Sample Health Organization 28,4633 Example St,Dodd City,75438,Fannin,48147,Service Delivery Site,20,Full-Time,Year-Round,N,9,33.57293,-96.07618
+SAMPLE0042,Sample Clinic 042 (not real),Sample Health Organization 29,9138 Example St,Sunray,79086,Moore,48341,Mobile Van,50,Full-Time,Year-Round,Y,8,35.98421,-101.78931
+SAMPLE0043,Sample Clinic 043 (not real),Sample Health Organization 35,690 Example St,Frankston,75763,Anderson,48001,Service Delivery Site,50,Full-Time,Year-Round,N,10,32.04929,-95.54379
+SAMPLE0044,Sample Clinic 044 (not real),Sample Health Organization 3,5962 Example St,Sonora,76950,Sutton,48435,Service Delivery Site,60,Full-Time,Year-Round,Y,7,30.54702,-100.62711
+SAMPLE0045,Sample Clinic 045 (not real),Sample Health Organization 40,2632 Example St,Houston,77085,Harris,48201,Service Delivery Site,32,Full-Time,Year-Round,Y,27,29.59329,-95.46771
+SAMPLE0046,Sample Clinic 046 (not real),Sample Health Organization 27,4165 Example St,Waco,76711,McLennan,48309,Service Delivery Site,32,Full-Time,Year-Round,N,7,31.51045,-97.18238
+SAMPLE0047,Sample Clinic 047 (not real),Sample Health Organization 15,3369 Example St,Freeport,77541,Brazoria,48039,School-Based,40,Full-Time,Year-Round,N,15,29.01908,-95.3283
+SAMPLE0048,Sample Clinic 048 (not real),Sample Health Organization 22,4664 Example St,Houston,77069,Harris,48201,Service Delivery Site,40,Full-Time,Year-Round,N,33,29.98028,-95.49193
+SAMPLE0049,Sample Clinic 049 (not real),Sample Health Organization 22,552 Example St,Moore,78057,Frio,48163,Service Delivery Site,40,Full-Time,Year-Round,Y,38,29.08725,-99.03447
+SAMPLE0050,Sample Clinic 050 (not real),Sample Health Organization 39,7219 Example St,Talco,75487,Titus,48449,Service Delivery Site,60,Full-Time,Year-Round,N,28,33.34077,-95.04901
+SAMPLE0051,Sample Clinic 051 (not real),Sample Health Organization 37,3214 Example St,Houston,77040,Harris,48201,Service Delivery Site,20,Full-Time,Year-Round,N,28,29.8445,-95.50227
+SAMPLE0052,Sample Clinic 052 (not real),Sample Health Organization 13,6067 Example St,Pearsall,78061,Frio,48163,Mobile Van,20,Full-Time,Year-Round,N,22,28.89969,-99.0846
+SAMPLE0053,Sample Clinic 053 (not real),Sample Health Organization 20,8408 Example St,Longview,75605,Gregg,48183,Service Delivery Site,60,Full-Time,Year-Round,N,21,32.54884,-94.78896
+SAMPLE0054,Sample Clinic 054 (not real),Sample Health Organization 13,6988 Example St,De Berry,75639,Panola,48365,Mobile Van,60,Full-Time,Year-Round,N,12,32.26123,-94.14754
+SAMPLE0055,Sample Clinic 055 (not real),Sample Health Organization 1,5078 Example St,Floresville,78114,Wilson,48493,Service Delivery Site,32,Full-Time,Year-Round,N,38,29.1757,-98.20427
+SAMPLE0056,Sample Clinic 056 (not real),Sample Health Organization 29,3601 Example St,Chappell Hill,77426,Washington,48477,School-Based,60,Full-Time,Year-Round,Y,6,30.17033,-96.22487
+SAMPLE0057,Sample Clinic 057 (not real),Sample Health Organization 22,1630 Example St,Corpus Christi,78474,Nueces,48355,Service Delivery Site,60,Full-Time,Year-Round,N,15,27.81839,-97.41116
+SAMPLE0058,Sample Clinic 058 (not real),Sample Health Organization 16,7884 Example St,Mabank,75156,Henderson,48213,Service Delivery Site,45,Full-Time,Year-Round,N,37,32.27887,-96.10662
+SAMPLE0059,Sample Clinic 059 (not real),Sample Health Organization 26,4097 Example St,Winnie,77665,Chambers,48071,Service Delivery Site,60,Full-Time,Year-Round,N,1,29.83926,-94.31787
+SAMPLE0060,Sample Clinic 060 (not real),Sample Health Organization 28,3685 Example St,Scroggins,75480,Franklin,48159,Service Delivery Site,60,Full-Time,Year-Round,N,30,33.02081,-95.21125
+SAMPLE0061,Sample Clinic 061 (not real),Sample Health Organization 8,7578 Example St,El Paso,79927,El Paso,48141,Service Delivery Site,45,Full-Time,Year-Round,N,34,31.67387,-106.26797
+SAMPLE0062,Sample Clinic 062 (not real),Sample Health Organization 29,8370 Example St,Crowell,79227,Foard,48155,Mobile Van,50,Full-Time,Year-Round,N,11,34.00582,-99.69982
+SAMPLE0063,Sample Clinic 063 (not real),Sample Health Organization 16,4643 Example St,Oklaunion,76373,Wilbarger,48487,School-Based,60,Full-Time,Year-Round,Y,18,34.12589,-99.13009
+SAMPLE0064,Sample Clinic 064 (not real),Sample Health Organization 18,5602 Example St,Denton,76210,Denton,48121,Service Delivery Site,50,Full-Time,Year-Round,Y,9,33.12185,-97.07972
+SAMPLE0065,Sample Clinic 065 (not real),Sample Health Organization 14,1152 Example St,Quitman,75783,Wood,48499,Mobile Van,45,Full-Time,Year-Round,N,35,32.80286,-95.45646
+SAMPLE0066,Sample Clinic 066 (not real),Sample Health Organization 27,6481 Example St,Odessa,79765,Ector,48135,Service Delivery Site,50,Full-Time,Year-Round,N,31,31.90785,-102.40329
+SAMPLE0067,Sample Clinic 067 (not real),Sample Health Organization 25,6965 Example St,Cee Vee,79223,Cottle,48101,Service Delivery Site,45,Full-Time,Year-Round,Y,18,34.22565,-100.48556
+SAMPLE0068,Sample Clinic 068 (not real),Sample Health Organization 26,2804 Example St,Brady,76825,McCulloch,48307,School-Based,32,Full-Time,Year-Round,N,35,31.12252,-99.34356
+SAMPLE0069,Sample Clinic 069 (not real),Sample Health Organization 2,1475 Example St,San Antonio,78208,Bexar,48029,Mobile Van,32,Full-Time,Year-Round,N,12,29.41302,-98.46625
+SAMPLE0070,Sample Clinic 070 (not real),Sample Health Organization 30,5455 Example St,Venus,76084,Johnson,48251,Service Delivery Site,45,Full-Time,Year-Round,N,27,32.41814,-97.13379
+SAMPLE0071,Sample Clinic 071 (not real),Sample Health Organization 35,953 Example St,Lake Dallas,75065,Denton,48121,Service Delivery Site,32,Full-Time,Year-Round,N,5,33.13877,-97.01459
+SAMPLE0072,Sample Clinic 072 (not real),Sample Health Organization 2,4151 Example St,Chillicothe,79225,Hardeman,48197,Service Delivery Site,20,Full-Time,Year-Round,N,10,34.22821,-99.51729
+SAMPLE0073,Sample Clinic 073 (not real),Sample Health Organization 37,3671 Example St,Atlanta,75551,Cass,48067,School-Based,60,Full-Time,Year-Round,N,24,33.08907,-94.15817
+SAMPLE0074,Sample Clinic 074 (not real),Sample Health Organization 8,2783 Example St,Amarillo,79106,Potter,48375,Service Delivery Site,20,Full-Time,Year-Round,N,2,35.22343,-101.89035
+SAMPLE0075,Sample Clinic 075 (not real),Sample Health Organization 26,3349 Example St,Houston,77020,Harris,48201,Service Delivery Site,50,Full-Time,Year-Round,N,16,29.75191,-95.29575
+SAMPLE0076,Sample Clinic 076 (not real),Sample Health Organization 39,2083 Example St,El Paso,79934,El Paso,48141,Service Delivery Site,40,Full-Time,Year-Round,N,28,31.94829,-106.43316
+SAMPLE0077,Sample Clinic 077 (not real),Sample Health Organization 22,307 Example St,Cost,78614,Gonzales,48177,Mobile Van,45,Full-Time,Year-Round,Y,28,29.45975,-97.54496
+SAMPLE0078,Sample Clinic 078 (not real),Sample Health Organization 30,2606 Example St,Mc Camey,79752,Upton,48461,Mobile Van,32,Full-Time,Year-Round,N,34,31.39523,-102.1715
+SAMPLE0079,Sample Clinic 079 (not real),Sample Health Organization 35,8021 Example St,Roby,79543,Fisher,48151,School-Based,45,Full-Time,Year-Round,N,38,32.7081,-100.3797
+SAMPLE0080,Sample Clinic 080 (not real),Sample Health Organization 6,4669 Example St,Odessa,79761,Ector,48135,School-Based,32,Full-Time,Year-Round,N,37,31.86452,-102.35956
+SAMPLE0081,Sample Clinic 081 (not real),Sample Health Organization 32,5425 Example St,Sherman,75092,Grayson,48181,Service Delivery Site,45,Full-Time,Year-Round,Y,23,33.65507,-96.62798
+SAMPLE0082,Sample Clinic 082 (not real),Sample Health Organization 18,9206 Example St,Concepcion,78349,Duval,48131,Service Delivery Site,50,Full-Time,Year-Round,Y,6,27.36938,-98.31461
+SAMPLE0083,Sample Clinic 083 (not real),Sample Health Organization 16,7900 Example St,Universal City,78148,Bexar,48029,School-Based,45,Full-Time,Year-Round,Y,6,29.53415,-98.30114
+SAMPLE0084,Sample Clinic 084 (not real),Sample Health Organization 20,9628 Example St,Muenster,76252,Cooke,48097,Service Delivery Site,45,Full-Time,Year-Round,N,34,33.65013,-97.3326
+SAMPLE0085,Sample Clinic 085 (not real),Sample Health Organization 22,5864 Example St,La Vernia,78121,Wilson,48493,School-Based,40,Full-Time,Year-Round,N,17,29.33473,-98.09972
+SAMPLE0086,Sample Clinic 086 (not real),Sample Health Organization 8,8879 Example St,Kopperl,76652,Bosque,48035,Service Delivery Site,32,Full-Time,Year-Round,Y,31,32.09009,-97.53672
+SAMPLE0087,Sample Clinic 087 (not real),Sample Health Organization 34,9877 Example St,Matador,79244,Motley,48345,Service Delivery Site,20,Full-Time,Year-Round,Y,19,34.03615,-100.85533
+SAMPLE0088,Sample Clinic 088 (not real),Sample Health Organization 35,2173 Example St,Grand Prairie,75050,Dallas,48113,Service Delivery Site,20,Full-Time,Year-Round,Y,36,32.75243,-96.98455
+SAMPLE0089,Sample Clinic 089 (not real),Sample Health Organization 32,1780 Example St,Roma,78584,Starr,48427,Service Delivery Site,50,Full-Time,Year-Round,N,31,26.42022,-99.01206
+SAMPLE0090,Sample Clinic 090 (not real),Sample Health Organization 17,7927 Example St,Nevada,75173,Collin,48085,Service Delivery Site,20,Full-Time,Year-Round,N,32,33.03374,-96.37993
+SAMPLE0091,Sample Clinic 091 (not real),Sample Health Organization 10,2544 Example St,Royse City,75189,Rockwall,48397,Service Delivery Site,20,Full-Time,Year-Round,Y,8,32.96628,-96.36983
+SAMPLE0092,Sample Clinic 092 (not real),Sample Health Organization 40,3797 Example St,Concepcion,78349,Duval,48131,Mobile Van,45,Full-Time,Year-Round,N,20,27.40651,-98.2796
+SAMPLE0093,Sample Clinic 093 (not real),Sample Health Organization 37,1086 Example St,Blooming Grove,76626,Navarro,48349,Service Delivery Site,32,Full-Time,Year-Round,N,14,32.06168,-96.72613
+SAMPLE0094,Sample Clinic 094 (not real),Sample Health Organization 12,9143 Example St,Keller,76244,Tarrant,48439,Service Delivery Site,32,Full-Time,Year-Round,Y,27,32.92803,-97.27867
+SAMPLE0095,Sample Clinic 095 (not real),Sample Health Organization 3,3892 Example St,Holland,76534,Bell,48027,Service Delivery Site,60,Full-Time,Year-Round,N,30,30.85427,-97.40169
+SAMPLE0096,Sample Clinic 096 (not real),Sample Health Organization 38,3341 Example St,Bryson,76427,Jack,48237,Mobile Van,20,Full-Time,Year-Round,N,15,33.17036,-98.3629
+SAMPLE0097,Sample Clinic 097 (not real),Sample Health Organization 10,1269 Example St,Girvin,79740,Crane,48103,Service Delivery Site,32,Full-Time,Year-Round,N,37,31.08817,-102.39215
+SAMPLE0098,Sample Clinic 098 (not real),Sample Health Organization 20,6694 Example St,Dayton,77535,Liberty,48291,Service Delivery Site,50,Full-Time,Year-Round,N,32,30.00647,-94.87282
+SAMPLE0099,Sample Clinic 099 (not real),Sample Health Organization 21,9991 Example St,Willis,77378,Montgomery,48339,Service Delivery Site,20,Full-Time,Year-Round,Y,15,30.47181,-95.43044
+SAMPLE0100,Sample Clinic 100 (not real),Sample Health Organization 38,439 Example St,San Antonio,78231,Bexar,48029,Service Delivery Site,50,Full-Time,Year-Round,Y,12,29.56963,-98.53231
+SAMPLE0101,Sample Clinic 101 (not real),Sample Health Organization 12,9690 Example St,Rising Star,76471,Eastland,48133,Mobile Van,60,Full-Time,Year-Round,N,6,32.1262,-98.9914
+SAMPLE0102,Sample Clinic 102 (not real),Sample Health Organization 7,2734 Example St,Milford,76670,Ellis,48139,Service Delivery Site,45,Full-Time,Year-Round,N,32,32.13549,-96.93449
+SAMPLE0103,Sample Clinic 103 (not real),Sample Health Organization 36,701 Example St,Tuscola,79562,Taylor,48441,School-Based,20,Full-Time,Year-Round,N,17,32.2244,-99.79619
+SAMPLE0104,Sample Clinic 104 (not real),Sample Health Organization 33,118 Example St,Houston,77080,Harris,48201,School-Based,45,Full-Time,Year-Round,Y,13,29.81701,-95.51564
+SAMPLE0105,Sample Clinic 105 (not real),Sample Health Organization 29,945 Example St,Beaumont,77713,Jefferson,48245,Service Delivery Site,40,Full-Time,Year-Round,N,9,30.11066,-94.26441
+SAMPLE0106,Sample Clinic 106 (not real),Sample Health Organization 32,2089 Example St,Comstock,78837,Val Verde,48465,Service Delivery Site,60,Full-Time,Year-Round,N,16,29.76099,-101.27415
+SAMPLE0107,Sample Clinic 107 (not real),Sample Health Organization 36,6784 Example St,Grand Prairie,75050,Dallas,48113,Service Delivery Site,32,Full-Time,Year-Round,Y,30,32.79172,-97.00234
+SAMPLE0108,Sample Clinic 108 (not real),Sample Health Organization 32,4881 Example St,Troup,75789,Smith,48423,Service Delivery Site,45,Full-Time,Year-Round,N,31,32.09632,-95.11242
+SAMPLE0109,Sample Clinic 109 (not real),Sample Health Organization 13,9920 Example St,Houston,77037,Harris,48201,Service Delivery Site,20,Full-Time,Year-Round,N,27,29.87959,-95.37624
+SAMPLE0110,Sample Clinic 110 (not real),Sample Health Organization 1,4734 Example St,Carbon,76435,Eastland,48133,Service Delivery Site,50,Full-Time,Year-Round,N,32,32.29202,-98.83801
+SAMPLE0111,Sample Clinic 111 (not real),Sample Health Organization 23,5546 Example St,Webster,77598,Harris,48201,Mobile Van,45,Full-Time,Year-Round,N,13,29.58525,-95.15967
+SAMPLE0112,Sample Clinic 112 (not real),Sample Health Organization 15,6830 Example St,Houston,77036,Harris,48201,Service Delivery Site,40,Full-Time,Year-Round,N,31,29.71071,-95.52182
+SAMPLE0113,Sample Clinic 113 (not real),Sample Health Organization 10,8215 Example St,Houston,77042,Harris,48201,Service Delivery Site,32,Full-Time,Year-Round,N,38,29.73032,-95.58288
+SAMPLE0114,Sample Clinic 114 (not real),Sample Health Organization 29,1733 Example St,El Paso,79912,El Paso,48141,School-Based,20,Full-Time,Year-Round,N,10,31.8329,-106.52711
+SAMPLE0115,Sample Clinic 115 (not real),Sample Health Organization 5,7792 Example St,Van,75790,Van Zandt,48467,Service Delivery Site,40,Full-Time,Year-Round,N,26,32.53729,-95.63339
+SAMPLE0116,Sample Clinic 116 (not real),Sample Health Organization 35,6326 Example St,Austin,78712,Travis,48453,Service Delivery Site,60,Full-Time,Year-Round,N,32,30.30754,-97.76325
+SAMPLE0117,Sample Clinic 117 (not real),Sample Health Organization 16,4808 Example St,Dallas,75234,Dallas,48113,Service Delivery Site,60,Full-Time,Year-Round,Y,28,32.9532,-96.87818
+SAMPLE0118,Sample Clinic 118 (not real),Sample Health Organization 7,7369 Example St,Quemado,78877,Maverick,48323,Service Delivery Site,60,Full-Time,Year-Round,N,2,28.89836,-100.57343
+SAMPLE0119,Sample Clinic 119 (not real),Sample Health Organization 23,6241 Example St,Killeen,76541,Bell,48027,Mobile Van,32,Full-Time,Year-Round,Y,34,31.11112,-97.71689
+SAMPLE0120,Sample Clinic 120 (not real),Sample Health Organization 11,2968 Example St,Nacogdoches,75961,Nacogdoches,48347,Service Delivery Site,50,Full-Time,Year-Round,N,16,31.56096,-94.49501
+SAMPLE0121,Sample Clinic 121 (not real),Sample Health Organization 30,4261 Example St,Denton,76201,Denton,48121,School-Based,40,Full-Time,Year-Round,N,1,33.25283,-97.13348
+SAMPLE0122,Sample Clinic 122 (not real),Sample Health Organization 35,2688 Example St,Copperas Cove,76522,Coryell,48099,Service Delivery Site,45,Full-Time,Year-Round,N,38,31.19085,-97.90238
+SAMPLE0123,Sample Clinic 123 (not real),Sample Health Organization 17,7584 Example St,Austin,78752,Travis,48453,Service Delivery Site,32,Full-Time,Year-Round,N,31,30.308,-97.70752
+SAMPLE0124,Sample Clinic 124 (not real),Sample Health Organization 37,4947 Example St,Big Lake,76932,Reagan,48383,Service Delivery Site,20,Full-Time,Year-Round,N,26,31.40347,-101.53834
+SAMPLE0125,Sample Clinic 125 (not real),Sample Health Organization 4,8238 Example St,Austin,78742,Travis,48453,Service Delivery Site,32,Full-Time,Year-Round,N,23,30.21444,-97.68889
+SAMPLE0126,Sample Clinic 126 (not real),Sample Health Organization 9,1691 Example St,Wichita Falls,76302,Wichita,48485,Service Delivery Site,40,Full-Time,Year-Round,N,3,33.86907,-98.48006
+SAMPLE0127,Sample Clinic 127 (not real),Sample Health Organization 19,5452 Example St,Cooper,75432,Delta,48119,Mobile Van,32,Full-Time,Year-Round,Y,9,33.39839,-95.63971
+SAMPLE0128,Sample Clinic 128 (not real),Sample Health Organization 34,8321 Example St,Wall,76957,Tom Green,48451,Service Delivery Site,32,Full-Time,Year-Round,N,31,31.40214,-100.31989
+SAMPLE0129,Sample Clinic 129 (not real),Sample Health Organization 8,7773 Example St,Coleman,76834,Coleman,48083,Service Delivery Site,32,Full-Time,Year-Round,Y,26,31.85674,-99.40872
+SAMPLE0130,Sample Clinic 130 (not real),Sample Health Organization 6,6564 Example St,Wall,76957,Tom Green,48451,Service Delivery Site,40,Full-Time,Year-Round,N,8,31.37139,-100.29723
+SAMPLE0131,Sample Clinic 131 (not real),Sample Health Organization 17,9677 Example St,Austin,78702,Travis,48453,Mobile Van,60,Full-Time,Year-Round,N,7,30.27429,-97.71831
+SAMPLE0132,Sample Clinic 132 (not real),Sample Health Organization 36,5474 Example St,Corpus Christi,78474,Nueces,48355,Service Delivery Site,60,Full-Time,Year-Round,Y,30,27.82456,-97.40187
+SAMPLE0133,Sample Clinic 133 (not real),Sample Health Organization 8,2390 Example St,Houston,77089,Harris,48201,Service Delivery Site,20,Full-Time,Year-Round,N,32,29.57097,-95.23771
+SAMPLE0134,Sample Clinic 134 (not real),Sample Health Organization 9,6467 Example St,Natalia,78059,Medina,48325,School-Based,40,Full-Time,Year-Round,N,35,29.20685,-98.84066
+SAMPLE0135,Sample Clinic 135 (not real),Sample Health Organization 27,1722 Example St,Van,75790,Van Zandt,48467,School-Based,50,Full-Time,Year-Round,N,18,32.50026,-95.66227
+SAMPLE0136,Sample Clinic 136 (not real),Sample Health Organization 29,3968 Example St,Eagle Lake,77434,Colorado,48089,Service Delivery Site,20,Full-Time,Year-Round,N,24,29.58687,-96.30673
+SAMPLE0137,Sample Clinic 137 (not real),Sample Health Organization 4,6623 Example St,Goodfellow AFB,76908,Tom Green,48451,Service Delivery Site,32,Full-Time,Year-Round,Y,30,31.4084,-100.42377
+SAMPLE0138,Sample Clinic 138 (not real),Sample Health Organization 39,449 Example St,San Juan,78589,Hidalgo,48215,Service Delivery Site,40,Full-Time,Year-Round,Y,9,26.22162,-98.17139
+SAMPLE0139,Sample Clinic 139 (not real),Sample Health Organization 36,3494 Example St,Monahans,79756,Ward,48475,Service Delivery Site,32,Full-Time,Year-Round,N,10,31.59862,-102.89454
+SAMPLE0140,Sample Clinic 140 (not real),Sample Health Organization 10,2229 Example St,Moran,76464,Shackelford,48417,Service Delivery Site,32,Full-Time,Year-Round,Y,2,32.53281,-99.17411
+SAMPLE0141,Sample Clinic 141 (not real),Sample Health Organization 16,9747 Example St,Lubbock,79409,Lubbock,48303,Service Delivery Site,20,Full-Time,Year-Round,Y,17,33.55104,-101.8407
+SAMPLE0142,Sample Clinic 142 (not real),Sample Health Organization 8,1141 Example St,Cotulla,78014,La Salle,48283,School-Based,45,Full-Time,Year-Round,N,33,28.44542,-99.23568
+SAMPLE0143,Sample Clinic 143 (not real),Sample Health Organization 40,810 Example St,Fort Worth,76116,Tarrant,48439,Service Delivery Site,45,Full-Time,Year-Round,N,2,32.69665,-97.44956
+SAMPLE0144,Sample Clinic 144 (not real),Sample Health Organization 28,1868 Example St,Houston,77075,Harris,48201,School-Based,60,Full-Time,Year-Round,N,5,29.64626,-95.27067
+SAMPLE0145,Sample Clinic 145 (not real),Sample Health Organization 5,2167 Example St,Cushing,75760,Nacogdoches,48347,Service Delivery Site,50,Full-Time,Year-Round,N,38,31.8007,-94.86439
+SAMPLE0146,Sample Clinic 146 (not real),Sample Health Organization 34,4931 Example St,Freer,78357,Duval,48131,School-Based,50,Full-Time,Year-Round,N,28,27.85595,-98.59399
+SAMPLE0147,Sample Clinic 147 (not real),Sample Health Organization 36,3622 Example St,Harwood,78632,Gonzales,48177,Mobile Van,45,Full-Time,Year-Round,Y,27,29.65644,-97.49339
+SAMPLE0148,Sample Clinic 148 (not real),Sample Health Organization 7,5220 Example St,Conroe,77304,Montgomery,48339,Mobile Van,40,Full-Time,Year-Round,N,17,30.31416,-95.54934
+SAMPLE0149,Sample Clinic 149 (not real),Sample Health Organization 5,1594 Example St,Highlands,77562,Harris,48201,Service Delivery Site,20,Full-Time,Year-Round,N,7,29.84428,-95.04694
+SAMPLE0150,Sample Clinic 150 (not real),Sample Health Organization 36,1082 Example St,Hallsville,75650,Harrison,48203,Service Delivery Site,60,Full-Time,Year-Round,Y,27,32.49852,-94.52338
+SAMPLE0151,Sample Clinic 151 (not real),Sample Health Organization 28,942 Example St,Amarillo,79111,Potter,48375,Service Delivery Site,50,Full-Time,Year-Round,N,23,35.20482,-101.66986
+SAMPLE0152,Sample Clinic 152 (not real),Sample Health Organization 31,3774 Example St,Van,75790,Van Zandt,48467,Service Delivery Site,40,Full-Time,Year-Round,N,24,32.50519,-95.66779
+SAMPLE0153,Sample Clinic 153 (not real),Sample Health Organization 28,9290 Example St,Fort Worth,76133,Tarrant,48439,Service Delivery Site,50,Full-Time,Year-Round,N,18,32.62434,-97.3894
+SAMPLE0154,Sample Clinic 154 (not real),Sample Health Organization 20,5667 Example St,Quail,79251,Collingsworth,48087,Service Delivery Site,20,Full-Time,Year-Round,Y,10,34.92198,-100.43115
+SAMPLE0155,Sample Clinic 155 (not real),Sample Health Organization 2,1603 Example St,Tyler,75705,Smith,48423,Service Delivery Site,45,Full-Time,Year-Round,N,30,32.36705,-95.133
+SAMPLE0156,Sample Clinic 156 (not real),Sample Health Organization 21,9399 Example St,Briscoe,79011,Wheeler,48483,Service Delivery Site,20,Full-Time,Year-Round,Y,11,35.60077,-100.19491
+SAMPLE0157,Sample Clinic 157 (not real),Sample Health Organization 18,7359 Example St,Anna,75409,Collin,48085,Mobile Van,45,Full-Time,Year-Round,N,29,33.33935,-96.58097
+SAMPLE0158,Sample Clinic 158 (not real),Sample Health Organization 8,5755 Example St,Cuero,77954,DeWitt,48123,Mobile Van,20,Full-Time,Year-Round,N,38,29.0902,-97.27117
+SAMPLE0159,Sample Clinic 159 (not real),Sample Health Organization 15,6575 Example St,Rice,75155,Navarro,48349,Service Delivery Site,20,Full-Time,Year-Round,Y,20,32.25252,-96.44456
+SAMPLE0160,Sample Clinic 160 (not real),Sample Health Organization 17,4842 Example St,Silverton,79257,Briscoe,48045,Service Delivery Site,20,Full-Time,Year-Round,Y,32,34.47892,-101.33636

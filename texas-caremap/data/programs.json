@@ -1,0 +1,92 @@
+{
+  "_note": "Income limits are percentages of the federal poverty level (FPL). Update these every January when HHS publishes new poverty guidelines, and check Texas HHS for program changes. The app only gives guidance; the official application decides eligibility.",
+  "last_reviewed": "2026-10-17",
+  "poverty_guidelines": {
+    "year": 2026,
+    "region": "48 contiguous states and D.C.",
+    "base": 15960,
+    "per_additional_person": 5680,
+    "source": "U.S. Department of Health and Human Services, 2026 Poverty Guidelines",
+    "url": "https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines"
+  },
+  "programs": {
+    "children_medicaid": {
+      "name": "Children's Medicaid",
+      "who": "Children and teens under 19",
+      "limits_by_age": {
+        "under_1": 198,
+        "age_1_5": 144,
+        "age_6_18": 133
+      },
+      "cost": "No monthly premium",
+      "apply_url": "https://www.yourtexasbenefits.com/",
+      "info_url": "https://www.hhs.texas.gov/services/health/medicaid-chip",
+      "source": "Medicaid.gov, Medicaid & CHIP eligibility levels (Texas)"
+    },
+    "chip": {
+      "name": "CHIP (Children's Health Insurance Program)",
+      "who": "Children and teens under 19 whose family earns too much for Medicaid",
+      "limit": 201,
+      "cost": "Low enrollment fee and copays for some families",
+      "apply_url": "https://www.yourtexasbenefits.com/",
+      "info_url": "https://www.hhs.texas.gov/services/health/medicaid-chip",
+      "source": "Medicaid.gov, Medicaid & CHIP eligibility levels (Texas)"
+    },
+    "pregnancy_medicaid": {
+      "name": "Medicaid for Pregnant Women",
+      "who": "People who are pregnant. Coverage continues for 12 months after the baby is born.",
+      "limit": 198,
+      "cost": "No monthly premium",
+      "apply_url": "https://www.yourtexasbenefits.com/",
+      "info_url": "https://www.hhs.texas.gov/services/health/medicaid-chip",
+      "source": "Medicaid.gov, Medicaid & CHIP eligibility levels (Texas); 12-month postpartum coverage: Texas HHSC, January 2024"
+    },
+    "healthy_texas_women": {
+      "name": "Healthy Texas Women",
+      "who": "Women ages 15 to 44 who are not pregnant and don't have other coverage for family planning. A parent or guardian applies for ages 15 to 17.",
+      "limit": 204.2,
+      "min_age": 15,
+      "max_age": 44,
+      "cost": "Free women's health and family planning services",
+      "apply_url": "https://www.yourtexasbenefits.com/",
+      "info_url": "https://www.healthytexaswomen.org/",
+      "source": "Texas Works Handbook W-110, Healthy Texas Women"
+    },
+    "parent_medicaid": {
+      "name": "Medicaid for Parents and Caretakers",
+      "who": "Very low-income parents or relatives caring for a child",
+      "limit": 12,
+      "approximate": true,
+      "cost": "No monthly premium",
+      "apply_url": "https://www.yourtexasbenefits.com/",
+      "info_url": "https://www.hhs.texas.gov/services/health/medicaid-chip",
+      "source": "Medicaid.gov, Medicaid & CHIP eligibility levels (Texas); Texas uses a dollar amount that works out to about 12% FPL"
+    },
+    "marketplace": {
+      "name": "Health Insurance Marketplace (HealthCare.gov)",
+      "who": "People without job-based coverage, Medicaid, or Medicare",
+      "subsidy_min": 100,
+      "subsidy_max": 400,
+      "cost": "Monthly premium; tax credits lower it for incomes between 100% and 400% FPL",
+      "open_enrollment": "November 1, 2026 to January 15, 2027 (enroll by December 15 for coverage starting January 1)",
+      "apply_url": "https://www.healthcare.gov/",
+      "info_url": "https://www.healthcare.gov/lower-costs/",
+      "source": "HealthCare.gov; enhanced subsidies ended after 2025, so the 400% FPL limit applies again"
+    },
+    "medicare": {
+      "name": "Medicare",
+      "who": "People 65 and older, and some younger people with disabilities",
+      "cost": "Depends on the plan",
+      "apply_url": "https://www.ssa.gov/medicare/",
+      "info_url": "https://www.medicare.gov/",
+      "source": "Medicare.gov"
+    },
+    "health_centers": {
+      "name": "Community health centers",
+      "who": "Everyone, with or without insurance",
+      "cost": "Fees on a sliding scale based on income; no one is turned away because they can't pay",
+      "info_url": "https://findahealthcenter.hrsa.gov/",
+      "source": "HRSA Health Center Program requirements"
+    }
+  }
+}

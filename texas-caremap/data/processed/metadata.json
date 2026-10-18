@@ -1,0 +1,10 @@
+{
+  "built_at": "2026-10-18",
+  "sources": {
+    "clinics": "HRSA Health Center Locations map service (gisportal.hrsa.gov)",
+    "uninsured": "U.S. Census Bureau, Small Area Health Insurance Estimates (SAHIE)",
+    "zips": "zipcodes Python package (ZIP code centroids)",
+    "counties": "Plotly US county GeoJSON (Census cartographic boundaries)"
+  },
+  "sahie_year": 2024
+}
